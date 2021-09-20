@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Oluwakemi Olamudzengi
+title: Oluwakemi Oluwafifehan Olamudzengi
 
 # Is this the primary user of the site?
 superuser: true
@@ -74,6 +74,7 @@ As their progeny, I fuse the two; I build communities by telling stories.
 I was born in Nigeria, raised in the United States, and now Canada is my home.
 I’m an engineer, scientist, and educator. 
 I desire to create and cultivate communities of exploration where students can learn and are motivated to expand their knowledge beyond the confines of the course.  
+
 As I investigate the barriers that impede learning, I look for opportunities to equip students with the skills necessary to succeed. The world is inundated with data, and so when I’m not teaching, reading a book, or watching K-drama, stiching phrases to make poems
 In my current role,  I teach 1st and 2nd-year computer science courses. 
 #This year, I will also design and teach a 3rd-year visualization course for the data science minor. 
