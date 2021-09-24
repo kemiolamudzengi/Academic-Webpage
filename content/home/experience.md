@@ -31,7 +31,6 @@ experience:
     location: Vancouver, BC
     date_start: '2018-01-01'
     date_end: ''
-    description: Teach, develop curricula, and conduct CSE research
     description: |2-
             Responsibilities include:
             
