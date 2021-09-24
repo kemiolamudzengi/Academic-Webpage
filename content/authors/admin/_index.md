@@ -29,10 +29,7 @@ education:
     institution: Trine University
     year: 2004
     
-# Interests to show in About widget
-interests:
-- Computer Science Pedagogy
-- Information Visualization
+
 
 
 
@@ -80,7 +77,4 @@ I desire to create and cultivate communities of exploration where students can l
 As I investigate the barriers that impede learning, I look for opportunities to equip students with the skills necessary to succeed. 
 In my current role,  I teach 1st and 2nd-year computer science courses.
 The world is inundated with data, and so when I’m not teaching, i create visualizations.
-
-
-# reading a book, watching K-drama, or stiching phrases to make poems,  
 

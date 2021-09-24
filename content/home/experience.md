@@ -21,6 +21,19 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
+
+experience:
+  - title: Assistant Professor Teaching
+    company: University of British Columbia
+    company_url: ''
+    company_logo: ubc
+    location: Vancouver, BC
+    date_start: '2018-01-01'
+    date_end: ''
+    description: Teach, develop curricula, and conduct CSE research
+    
+    
 experience:
   - title: CEO
     company: GenCoin
