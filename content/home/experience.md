@@ -56,16 +56,16 @@ experience:
     date_end: '2017-12-31'
     description: Designed and developed visualization tools
     
-    
-  - title: Lecturer
-        company: Babcock University
-        company_url: ''
-        company_logo: babcock
-        location: Ilishan-Remo, Nigeria
-        date_start: '2011-01-01'
-        date_end: '2011-12-31'
-        description: Taught computing courses
 
+  - title: Senior Product Development Advisor
+    company: Public Health Ontario
+    company_url: ''
+    company_logo: pho
+    location: Toronto, ON
+    date_start: '2015-01-01'
+    date_end: '2017-12-31'
+    description: Designed and developed visualization tools
+    
 design:
   columns: '2'
 ---
