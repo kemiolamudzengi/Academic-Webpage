@@ -33,8 +33,6 @@ experience:
     date_end: ''
     description: Teach, develop curricula, and conduct CSE research
     
-    
-experience:
   - title: CEO
     company: GenCoin
     company_url: ''
@@ -42,13 +40,7 @@ experience:
     location: California
     date_start: '2021-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-        
+
   - title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
