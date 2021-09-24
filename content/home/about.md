@@ -15,7 +15,8 @@ weight: 10
 title: Hello,
 
 # Choose the user profile to display
+author: 'admin'
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
-author: admin
+
 ---

@@ -14,12 +14,7 @@ organizations:
   url: https://www.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-# Interests to show in About widget
-interests:
-- Computer Science Pedagogy
-- Information Visualization
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Education to show in About widget
 education:
@@ -33,6 +28,13 @@ education:
   - course: BSc in Computer Engineering
     institution: Trine University
     year: 2004
+    
+# Interests to show in About widget
+interests:
+- Computer Science Pedagogy
+- Information Visualization
+
+
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -75,8 +77,10 @@ I was born in Nigeria, raised in the United States, and now Canada is my home.
 I’m an engineer, scientist, and educator. 
 I desire to create and cultivate communities of exploration where students can learn and are motivated to expand their knowledge beyond the confines of the course.  
 
-As I investigate the barriers that impede learning, I look for opportunities to equip students with the skills necessary to succeed. The world is inundated with data, and so when I’m not teaching, reading a book, watching K-drama, or stiching phrases to make poems, i create visualizations.
-In my current role,  I teach 1st and 2nd-year computer science courses. 
+As I investigate the barriers that impede learning, I look for opportunities to equip students with the skills necessary to succeed. 
+In my current role,  I teach 1st and 2nd-year computer science courses.
+The world is inundated with data, and so when I’m not teaching, i create visualizations.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# reading a book, watching K-drama, or stiching phrases to make poems,  
+
