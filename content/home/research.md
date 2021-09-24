@@ -10,9 +10,9 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 30
 
-title: Projects
+title: EL Activities
 subtitle: ''
 
 content:

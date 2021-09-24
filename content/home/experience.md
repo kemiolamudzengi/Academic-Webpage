@@ -28,53 +28,43 @@ experience:
     company: University of British Columbia
     company_url: ''
     company_logo: ubc
-    location: Vancouver, BC
+    location: Vancouver, BC Canada
     date_start: '2018-01-01'
     date_end: ''
-    description: |2-
-            Responsibilities include:
-            
-            * Teaching CPSC 100, CPSC 110, CPSC 213
-            * Developing curricula
-            * Conducting CSE research
     
   - title: Sessional Lecturer
     company: Western University
     company_url: ''
     company_logo: western
-    location: London, ON
+    location: London, ON, Canada
     date_start: '2016-01-01'
     date_end: '2017-12-22'
-    description: Taught computing courses
 
   - title: Senior Product Development Advisor
     company: Public Health Ontario
     company_url: ''
     company_logo: pho
-    location: Toronto, ON
+    location: Toronto, ON Canada
     date_start: '2015-12-01'
     date_end: '2016-11-01'
-    description: Designed and developed visualization tools
     
     
   - title: Graduate Research Assistant
     company: Western University
     company_url: ''
     company_logo: western
-    location: Ilishan-Remo, Nigeria
+    location: London, ON Canada
     date_start: '2012-01-01'
     date_end: '2017-12-31'
-    description: Engaged in info. viz. research
 
 
   - title: Lecturer
     company: Babcock University
     company_url: ''
     company_logo: babcock
-    location: Ilishan-Remo, Ogun, Nigeria
+    location: Ilishan-Remo, Ogun Nigeria
     date_start: '2011-01-01'
     date_end: '2011-12-31'
-    description: Taught computing courses
     
 design:
   columns: '2'

@@ -72,9 +72,7 @@ My dad is a storyteller and my mom is a community builder.
 As their progeny, I fuse the two; I build communities by telling stories.
 I was born in Nigeria, raised in the United States, and now Canada is my home.
 I’m an engineer, scientist, and educator. 
-I desire to create and cultivate communities of exploration where students can learn and are motivated to expand their knowledge beyond the confines of the course.  
-
+I teach computing courses and study how to identify and address barriers to cultivating inclusive and supportive communities of teaching and learning
 As I investigate the barriers that impede learning, I look for opportunities to equip students with the skills necessary to succeed. 
-In my current role,  I teach 1st and 2nd-year computer science courses.
-The world is inundated with data, and so when I’m not teaching, i create visualizations.
+
 
