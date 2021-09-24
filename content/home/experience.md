@@ -32,23 +32,40 @@ experience:
     date_start: '2018-01-01'
     date_end: ''
     description: Teach, develop curricula, and conduct CSE research
+    description: |2-
+            Responsibilities include:
+            
+            * Teaching CPSC 100, CPSC 110, CPSC 213
+            * Developing curricula
+            * Conducting CSE research
     
-  - title: CEO
-    company: GenCoin
+  - title: Sessional Lecturer
+    company: Western University
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: western
+    location: London, ON
+    date_start: '2016'
+    date_end: '2017'
+    description: Taught computing courses
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Senior Product Development Advisor
+    company: Public Health Ontario
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: pho
+    location: Toronto, ON
+    date_start: '2015-01-01'
+    date_end: '2017-12-31'
+    description: Designed and developed visualization tools
+    
+    
+  - title: Lecturer
+        company: Babcock University
+        company_url: ''
+        company_logo: babcock
+        location: Ilishan-Remo, Nigeria
+        date_start: '2011-01-01'
+        date_end: '2011-12-31'
+        description: Taught computing courses
 
 design:
   columns: '2'
