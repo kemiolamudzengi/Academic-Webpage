@@ -19,9 +19,26 @@ design:
   columns: '2'
 ---
 
+##UBC
+<ul>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+<li>Fourth item</li>
+</ul>
 
-#Add any content here - text, images, videos, galleries - and even HTML code!
-CPSC 100
-CPSC 110
-CPSC 213
+##Western
+<ul>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+<li>Fourth item</li>
+</ul>
 
+##Babcock
+<ul>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+<li>Fourth item</li>
+</ul>
