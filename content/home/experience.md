@@ -24,7 +24,7 @@ date_format: Jan 2006
 
 
 experience:
-  - title: Assistant Professor Teaching
+  - title: Assistant Professor of Teaching
     company: University of British Columbia
     company_url: ''
     company_logo: ubc
