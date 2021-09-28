@@ -15,10 +15,6 @@ weight: 20
 title: Teaching
 subtitle: ''
 
-
----
-# ... Put Your Section Options Here (title etc.) ...
-
 design:
   columns: '2'
 ---
