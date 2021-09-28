@@ -21,9 +21,9 @@ design:
 
 ## UBC
 <ul>
-<li>CPSC 100</li>
-<li>CPSC 110</li>
-<li>CPSC 213</li>
+<li>Computational Thinking</li>
+<li>Computation, Programs and Programming</li>
+<li>Introduction to Computer Systems</li>
 </ul>
 
 ## Western
