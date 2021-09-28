@@ -19,26 +19,23 @@ design:
   columns: '2'
 ---
 
-##UBC
+## UBC
 <ul>
-<li>First item</li>
-<li>Second item</li>
-<li>Third item</li>
-<li>Fourth item</li>
+<li>CPSC 100</li>
+<li>CPSC 110</li>
+<li>CPSC 213</li>
 </ul>
 
-##Western
+## Western
 <ul>
-<li>First item</li>
-<li>Second item</li>
-<li>Third item</li>
-<li>Fourth item</li>
+<li>Computer Science Fundamental I</li>
+<li>Exploring the Landscape of Science</li>
+<li>Data Analytics: Principles and Tools</li>
+<li>Professional Computing for Applied Scientists</li>
 </ul>
 
-##Babcock
+## Babcock
 <ul>
-<li>First item</li>
-<li>Second item</li>
-<li>Third item</li>
-<li>Fourth item</li>
+<li>Introduction to Programming in C++</li>
+<li>Object-Orientated Programming in C++</li>
 </ul>
