@@ -26,7 +26,7 @@ design:
 <li>Introduction to Computer Systems</li>
 </ul>
 
-## Western
+## Western University
 <ul>
 <li>Computer Science Fundamental I</li>
 <li>Exploring the Landscape of Science</li>
@@ -34,7 +34,7 @@ design:
 <li>Professional Computing for Applied Scientists</li>
 </ul>
 
-## Babcock
+## Babcock University 
 <ul>
 <li>Introduction to Programming in C++</li>
 <li>Object-Orientated Programming in C++</li>

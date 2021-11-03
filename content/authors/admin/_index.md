@@ -69,10 +69,15 @@ highlight_name: true
 ---
 
 My dad is a storyteller and my mom is a community builder. 
-As their progeny, I fuse the two; I build communities by telling stories.
-I was born in Nigeria, raised in the United States, and now Canada is my home.
-I’m an engineer, scientist, and educator. 
-I teach computing courses and study how to identify and address barriers to cultivating inclusive and supportive communities of teaching and learning
-As I investigate the barriers that impede learning, I look for opportunities to equip students with the skills necessary to succeed. 
-
+As their progeny, I fuse the two; I tell stories as I build learning communities.\
+I was born in Nigeria, raised in the United States, and now Canada is were my heart dwells. \
+I’m an educator and researcher. \
+As an educator, I teach introductory programming and visualization courses at UBC. 
+In this role I explore ways to remove barriers that impede learning and develop support structures that address common misconceptions. 
+As a researcher, I study the socio-emotional factors that influence learning. 
+My goal is to create and cultivate inclusive and supportive communities of teaching and learning in computing. 
+To this end, I
+- coordinate our teaching assistant training program 
+- organize conferences, workshops, and support groups for faculty
+- conduct research, explore pedagogy, teach students, and (of course) tell stories
 
