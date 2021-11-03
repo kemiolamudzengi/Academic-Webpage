@@ -24,6 +24,7 @@ design:
 <li>Computational Thinking</li>
 <li>Computation, Programs and Programming</li>
 <li>Introduction to Computer Systems</li>
+<li>Visualization for Data Science</li>
 </ul>
 
 ## Western University
