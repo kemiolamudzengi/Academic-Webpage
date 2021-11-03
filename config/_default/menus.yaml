@@ -11,11 +11,14 @@ main:
     url: '#teaching'
     weight: 20
   - name: EL Activities
-    url: '#research'
+    url: '#elactivities'
     weight: 30
   - name: Experience
     url: '#experience'
     weight: 40
+  - name: Gallery
+    url: '#gallery'
+    weight: 50
   - name: Accomplishments
     url: '#accomplishments'
     weight: 70

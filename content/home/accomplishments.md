@@ -16,41 +16,42 @@ weight: 70
 title: 'Accomplish&shy;ments'
 subtitle:
 
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
 
-# Accomplishments.
-#   Add/remove as many `item` blocks below as you like.
-#   `title`, `organization`, and `date_start` are the required parameters.
-#   Leave other parameters empty if not required.
-#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+# Slide interval.
+# Use `false` to disable animation or enter a time in ms, e.g. `5000` (5s).
+interval: false
+
+# Minimum slide height.
+# Specify a height to ensure a consistent height for each slide.
+height: 300px
+
+
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
-
-design:
-  columns: '2' 
----
+  - title: Hello
+    content: 'I am center aligned 😄'
+    # Choose `center`, `left`, or `right` alignment.
+    align: center
+    # Overlay a color or image (optional).
+    #   Deactivate an option by commenting out the line, prefixing it with `#`.
+    overlay_color: '#666'  # An HTML color value.
+    overlay_img: bubbles.jpg  # Image path relative to your `assets/media/` folder
+    overlay_filter: 0.5  # Darken the image. Value in range 0-1.
+    # Call to action button (optional).
+    #   Activate the button by specifying a URL and button label below.
+    #   Deactivate by commenting out parameters, prefixing lines with `#`.
+    cta_label: Download my app
+    cta_url: 'https://example.org'
+    cta_icon_pack: fas
+    cta_icon: graduation-cap
+  - title: Left
+    content: 'I am left aligned 😄'
+    align: left
+    overlay_color: '#555'
+    overlay_img: ''
+    overlay_filter: 0.5
+  - title: Right
+    content: 'I am right aligned 😄'
+    align: right
+    overlay_color: '#333'
+    overlay_img: ''
+    overlay_filter: 0.5
