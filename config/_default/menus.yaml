@@ -10,22 +10,12 @@ main:
   - name: Teaching
     url: '#teaching'
     weight: 20
-  - name: EL Activities
-    url: '#elactivities'
+  - name: Research
+    url: '#research'
     weight: 30
+  - name: Service
+    url: '#service'
+    weight: 40
   - name: Experience
     url: '#experience'
-    weight: 40
-  - name: Gallery
-    url: '#gallery'
     weight: 50
-  - name: Accomplishments
-    url: '#accomplishments'
-    weight: 70
-
-
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-#  - name: CV
-#    url: uploads/resume.pdf
-#    weight: 70
